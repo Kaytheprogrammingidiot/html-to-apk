@@ -1,0 +1,21 @@
+# Node.js (frontend + backend)
+node_modules/
+.env
+dist/
+build/
+*.log
+
+# Android Gradle project
+android-project/.gradle/
+android-project/.idea/
+android-project/local.properties
+android-project/app/build/
+android-project/build/
+android-project/*.iml
+*.apk
+
+# OS + Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
